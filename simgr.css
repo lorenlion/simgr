@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+}
+
+header img{
+	position: absolute;
+    max-width: 100%;
+}
+
+#gr{
+    padding-left: 30px;
+	}
+
+#meet{
+    position: relative;
+    padding-top: 90px;
+    padding-left: 160px;
+    width: 230px;
+}
+#signin{
+	font-family: sans-serif;
+	position: relative;
+	padding-left: 670px;
+	margin-top: -80px;
+	
+}
+a{
+	text-decoration: none;
+}
+#signup{
+	position: relative;
+	padding-left: 700px;
+	margin: 10px;
+
+}

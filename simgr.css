@@ -22,7 +22,7 @@ header img{
 	position: relative;
 	padding-left: 670px;
 	margin-top: -80px;
-	
+	border-radius: 30px;
 }
 a{
 	text-decoration: none;
@@ -31,5 +31,27 @@ a{
 	position: relative;
 	padding-left: 700px;
 	margin: 10px;
-
+}
+#by{
+	display:inline-block;
+	position: relative;
+	color: black;
+	font-size: 10px;
+	width: 150px;
+	margin-left: 65px;
+    margin-top:-18px;
+}
+#or{
+	position: relative;
+	width: 230px;
+	height: 35px;
+	margin-left: 710px;
+	margin-top: 60px;
+	background-color: #505050;
+	color: white;
+	padding-top: 15px;
+	padding-left: 13px;
+}
+#or a{
+	padding-left: 40px;
 }
